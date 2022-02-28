@@ -1,0 +1,12 @@
+.btns{
+    background-color: rgba($color: #333, $alpha: 0.1);
+    max-height: 40px;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn_pri{
+    background-color: #3688fc;
+    color: aliceblue;
+}

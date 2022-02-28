@@ -1,0 +1,11 @@
+<svg onclick="openMenu()" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none" class="svg replaced-svg">
+                                    <rect x="5" y="5" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="16" y="5" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="27" y="5" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="5" y="16" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="16" y="16" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="27" y="16" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="5" y="27" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="16" y="27" width="4" height="4" rx="2" fill="#333333"></rect>
+                                    <rect x="27" y="27" width="4" height="4" rx="2" fill="#333333"></rect>
+                                </svg>

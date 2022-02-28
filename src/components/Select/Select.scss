@@ -1,0 +1,26 @@
+.form-control:focus ~ .selectList{
+    display: block;
+}
+.selectList{
+    list-style-type: none;
+    text-align: end;
+    padding-left: 0px;
+    border: 1px solid rgba(122, 121, 121,0.2);
+    border-radius: 3px;
+    max-height: 180px;
+    overflow-y:scroll ;
+    display: none;
+    z-index: 2;
+    background-color: #fff;
+    position:absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    .selectItem{
+        padding: 6px 12px;
+        &:hover{
+            color: #fff;
+            background-color: #86C6F4;
+        }
+    }
+}
